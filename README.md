@@ -16,11 +16,11 @@ Welcome to my GitHub profile! I'm a passionate **Python Developer**, **Ethical H
 - **Miscellaneous**: Linux, Bash Scripting, Networking
 
 ### 📈 GitHub Stats:
-![Shulav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shulavpaudel&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Shulav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamsulav10&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ### 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/shulav/)
-- [Instagram]((https://www.instagram.com/shulav003/))
+- [Instagram](https://www.instagram.com/shulav003/)
 
 ### 📚 Currently Learning:
 - **Ethical Hacking**
